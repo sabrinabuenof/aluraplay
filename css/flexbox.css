@@ -15,8 +15,8 @@
 .rodape__container {
     display: flex;
     /* flex-direction: column;
-    flex-wrap: wrap; */
-    flex-flow:column;
+    flex-wrap: wrap;  essas duas linhas significam a mesma coisa que 'flex-flow:column'*/
+    flex-flow:column wrap;
 }
 
 
